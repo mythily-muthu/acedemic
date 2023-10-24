@@ -6,7 +6,7 @@ import { AiFillYoutube } from "react-icons/ai";
 
 const Header = () => {
   return (
-    <div className="flex w-[85%] h-14 justify-between p-4 bg-transparent">
+    <div className="flex w-[85%] h-14 justify-between py-4 bg-transparent">
       <div className="flex w-full justify-center items-center">
         <div className="flex flex-col w-full h-full text-white">
           <p className="flex text-4xl font-bold">ACADEMIA</p>
